@@ -22,7 +22,7 @@ Selecting by line:
 
 # Show Keybinds:
 
-- Ctrl+K+S and it will show you every keybind that exists and can exist
+- Ctrl+K then Ctrl+S and it will show you every keybind that exists and can exist
 
 # Motions:
 
