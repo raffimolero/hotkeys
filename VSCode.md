@@ -9,9 +9,9 @@ Movement position:
 - Place Right hand on Up/Down/Left/Right (I personally use Right thumb for Down) and ready for Backspace/Ins/Del/Home/End/PgUp/PgDn
 
 Selecting by line:
-- press End and hold Shift
-  - only press Up/Down
-  - press End again before doing anything
+- first press Home or End
+- now only press Shift+Up/Down
+  - press Home or End again before doing anything
 
 # Opening a file/folder/project:
 - Ctrl+R => search and open from recent projects
